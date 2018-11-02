@@ -18,7 +18,7 @@ if has("vms")
 endif
 
 " 使能鼠标
-set mouse =a
+set mouse=a
 
 " 设置编码
 :set encoding=utf-8
